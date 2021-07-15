@@ -6,11 +6,11 @@ Comparative-effectiveness Research on Immunization Used for SARS-CoV-2 (CRIUS)
 - Analytics use case(s): **Population-Level Estimation**
 - Study type: **Clinical Application**
 - Tags: **-**
-- Study lead: **-**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
+- Study lead: **Anna Ostropolets and George Hripcsak**
+- Study lead forums tag: **[Anna Ostropolets](https://forums.ohdsi.org/u/aostropolets)**
 - Study start date: **April 01, 2021**
 - Study end date: **-**
-- Protocol: **-**
+- Protocol: **[Protocol](https://github.com/ohdsi-studies/Covid19VaccineEffectiveness/blob/Covid19VaccineEffectiveness/OHDSI_covid_vaccine_effectiveness_study_v1.docx)**
 - Publications: **-**
 - Results explorer: **-**
 
